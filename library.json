@@ -1,0 +1,25 @@
+{
+  "name": "RoboMotor",
+  "version": "0.0.1",
+  "description": "Utility library for managing https://wiki.dfrobot.com/Dual-Channel_DC_Motor_Driver-12A_SKU:DFR0601 with Arduino",
+  "keywords": "motor",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/estasney/robomotor.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Eric Stasney",
+      "email": "estasney@example.org",
+      "maintainer": true
+    },
+  ],
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
